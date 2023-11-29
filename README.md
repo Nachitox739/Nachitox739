@@ -2,8 +2,8 @@
 - ✨ I can code in Java, PHP, C++, CSS and HTML. <br>
 - ⭐️I'm a student at EEST N°7 José Hernandéz⭐️.
 - 🌐 You can find me on:
-- Instagram @nachitox739
-- Discord @nachitox739
+- Instagram (@nachitox739)[https://instagram.com/nachitox739?igshid=MzMyNGUyNmU2YQ==]
+- Discord @nachitox739#1907
 <!---
 Nachitox739/Nachitox739 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
