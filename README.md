@@ -1,5 +1,5 @@
 -  Hello, my name is ✨ Ignacio Ares ✨, I'm 17 years old and I'm from Argentina🇦🇷. <br>
-- ⌨️ I can code in Java, PHP, C++, CSS and HTML. <br>
+- ✨ I can code in Java, PHP, C++, CSS and HTML. <br>
 - ⭐️I'm a student at EEST N°7 José Hernandéz⭐️.
 - 🌐 You can find me on:
 - Instagram @nachitox739
